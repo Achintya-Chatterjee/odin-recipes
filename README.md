@@ -1,1 +1,1 @@
-will add letter
+THis is a basic HTML project. I made some recipes with the internet help. Also practice some basic HTML stuff for revision. 
